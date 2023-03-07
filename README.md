@@ -1,4 +1,4 @@
-## Hello 👋🏼, I'm Thu Thuy, or Tunyy
+## Hello 👋🏼, I'm Thu Thuy (or tunyy)
 
 - 🌱 Currently, I'm a software developer with ReactJS and React Native at React Plus JSC.
 - 📫 Contact me: `thuthuyy.242@gmail.com`
