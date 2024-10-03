@@ -1,6 +1,6 @@
 ## Hello 👋🏼, I'm Thu Thuy (or tunyy)
 
-- 🌱 Currently, I'm a software developer with ReactJS and React Native.
+- 🌱 Currently, I'm a software developer with ReactJS and React Native, a little bit Laravel :))
 - 📫 Contact me: `thuthuyy.242@gmail.com`
 
 ### Languages
